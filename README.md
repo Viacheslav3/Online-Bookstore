@@ -10,3 +10,4 @@ Technologie wykorzystane w projekcie:
 * Axios - Biblioteka oparta na obietnicach biblioteka JavaScript do wykonywania żądań HTTP.
 * Lodash - Biblioteka z ogromną liczbą funkcji do pracy z różnymi strukturami danych.
 * Semantic UI (React)
+# Online-Bookstore
